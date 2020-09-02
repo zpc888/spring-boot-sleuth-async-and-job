@@ -1,12 +1,3 @@
-/*
- * Copyright © 2018 Capco. All rights reserved.
- * Capco BlockWorkx
- *
- * You may obtain a copy of the License at
- *
- * capco-blockworkx-license.txt file under the top-level jar file
- *
- */
 
 package com.cloud.sleuthclient;
 
